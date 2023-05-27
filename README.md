@@ -1,3 +1,1 @@
-# alu-shell
-This is a repository of Shell basics
-A README file
+this is a repository tta deals with shell basics.
