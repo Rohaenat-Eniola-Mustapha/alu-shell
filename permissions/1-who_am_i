@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Effective username: $(id -un)"
+who am i
