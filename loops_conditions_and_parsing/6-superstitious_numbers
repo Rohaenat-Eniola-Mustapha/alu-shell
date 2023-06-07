@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 #bash script that displays numbers from 1 to 20 and luck messages
-counter=1
 count=1
 
 while [ $count -le 20 ]
